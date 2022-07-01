@@ -1,0 +1,42 @@
+#headerbody{  
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+
+  
+}
+.reginput{
+    width: 200px;
+    height: 30px;
+}
+.passinput{
+    width: 200px;
+    height: 30px;
+}
+
+
+#headerbody1 {
+    background-color: rgba(74, 135, 204, 0.514);
+    height: auto;
+
+}
+
+.institution {
+    color: red;
+    justify-content: center;
+    text-align: center;
+}
+.motto{
+    color: rgb(167, 115, 48);
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+}
+.elearningLabel{
+    text-align: left;
+    margin-left: 50px;
+ 
+}
+
